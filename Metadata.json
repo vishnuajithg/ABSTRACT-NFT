@@ -1,0 +1,45 @@
+{
+    "description": "Unique Abstract Artwork", 
+    "external_url": "https://kba.ai", 
+    "image": "https://sapphire-accurate-tortoise-289.mypinata.cloud/ipfs/QmQ18EtpYMnSntmxog5e8dwWsyKMNJanMuWVEcZxWGkDNb", 
+    "name": "ABSTRACT LIFE ART",
+    "attributes": [ 
+        {
+            "trait_type": "Theme", 
+            "value": "Energy Flow"
+          }, 
+          {
+            "trait_type": "Color Palette", 
+            "value": "Vibrant Multicolor"
+          }, 
+          {
+            "trait_type": "Dominant Shape", 
+            "value": "Geometric Fragments"
+          }, 
+          {
+            "trait_type": "Mood", 
+            "value": "Dynamic"
+          }, 
+          {
+            "trait_type": "Emotion", 
+            "value": "Abstract Contemplation"
+          }, 
+          {
+            "display_type": "boost_number", 
+            "trait_type": "Symmetry Balance", 
+            "value": 85
+          }, 
+          {
+            "display_type": "boost_percentage", 
+            "trait_type": "Energy Movement", 
+            "value": 75
+          }, 
+          {
+            "display_type": "number", 
+            "trait_type": "Art Generation", 
+            "value": 1
+          }
+      ]
+
+    
+  }
